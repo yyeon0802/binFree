@@ -9,7 +9,7 @@
 
 > 상세 Portfolio
 
-* https://yyeon0802.github.io/portfolio/
+* https://yyeon0802.github.io/portfolio/index
 
 
 
