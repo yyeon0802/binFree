@@ -2,8 +2,6 @@
 
 # Final Project : BinFree  
 
-# 	- source code 
-
 
 <br/>
 <br/>
