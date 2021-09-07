@@ -6,9 +6,15 @@
 
 
 
+
+
+
 > 상세 Portfolio
 
 * https://yyeon0802.github.io/portfolio/
+
+
+
 
 
 
@@ -18,9 +24,15 @@
 
 
 
+
+
+
 > 개발 기간
 
 - 2021 .  6 . 1.  ~  2021 .  7.  14 .
+
+
+
 
 
 
